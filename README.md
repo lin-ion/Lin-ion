@@ -1,5 +1,9 @@
-### 안녕 👋
+## 안녕 👋
 
+## My Favorite Songs
+|[YouTube Playlist](https://youtube.com/playlist?list=PL1JWe6Q9IzayPsgshDkwbptsc5RURcRMk&si=06LWMhn64tPfbJXH)|
+|-|
+|<img src="https://yt3.googleusercontent.com/dBX3VcV0sD6DtFvfJ2_GGd3lKcv2nRqnB0TJyTQwEJEBWF2jCADXyqvlWRfc3NszZLqLXcvWZQ=s1200" width="320">|
 <!--
 **Lin-ion/Lin-ion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
