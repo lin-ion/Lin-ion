@@ -3,7 +3,7 @@
 ## My Favorite Songs
 |[YouTube Playlist](https://www.youtube.com/playlist?list=PL1JWe6Q9IzayPsgshDkwbptsc5RURcRMk&si=06LWMhn64tPfbJXH)|
 |-|
-|<img src="https://yt3.googleusercontent.com/dBX3VcV0sD6DtFvfJ2_GGd3lKcv2nRqnB0TJyTQwEJEBWF2jCADXyqvlWRfc3NszZLqLXcvWZQ=s1200" width="320">|
+|<img src="https://yt3.googleusercontent.com/_rHqj151dbiqoNnM_9KYx0u7qBjW5tsRuPy3mC4HkT4SlZibQi4HTiccMP30PSpwK9gHWA-o1g=s1200" width="320">|
 
 ### View Count
 <img src="https://count.getloli.com/@lin-ion?name=lin-ion&amp;theme=rule34&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt=":lin-ion">
